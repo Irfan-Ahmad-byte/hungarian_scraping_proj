@@ -1,0 +1,7 @@
+selenium
+python-telegram-bot
+nltk
+spacy
+pandas
+requests
+speechrecognition
